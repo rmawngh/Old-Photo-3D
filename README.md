@@ -8,4 +8,9 @@ This is the implementation of the paper **Monocular Depth Estimation of Old Phot
 The dataset was crawled old photos from onlie library.
 [Library of congress](https://www.loc.gov/pictures/)
 
-pairwise comparison code.
+
+
+# Result Comparison
+
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Paper/Result_Comparison.jpg">
+
