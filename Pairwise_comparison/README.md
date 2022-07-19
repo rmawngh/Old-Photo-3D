@@ -19,6 +19,8 @@ opencv-python
 The dataset was crawled old photos from onlie library.
 [Library of congress](https://www.loc.gov/pictures/)
 
+[Old Photo Restoration](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) was used. 
+
 
 # GUI example
 
