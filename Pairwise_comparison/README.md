@@ -19,3 +19,7 @@ opencv-python
 The dataset was crawled old photos from onlie library.
 [Library of congress](https://www.loc.gov/pictures/)
 
+
+# GUI example
+
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Pairwise_comparison/gui_example.png">
