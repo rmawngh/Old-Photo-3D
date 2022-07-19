@@ -22,6 +22,14 @@ The dataset was crawled old photos from onlie library.
 [Old Photo Restoration](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) was used for dataset. 
 
 
+# Folder Description
+
+old_depth     : depth result images
+old_xyz       : xyzrgb.txt files
+original_old  : original(before restoration) images
+restored_old  : restored(after restoration) images
+
+
 # GUI example
 
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Pairwise_comparison/gui_example.png">
