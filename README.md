@@ -12,5 +12,5 @@ The dataset was crawled old photos from onlie library.
 
 # Result Comparison
 
-<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Paper/Result_Comparison.jpg">
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Paper/Result_Comparison.png">
 
