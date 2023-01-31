@@ -18,3 +18,6 @@ The dataset was crawled old photos from onlie library.
 
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Paper/Result_Comparison.png">
 
+
+## Acknowledgments
+The code is based on [Learning-Monocular-Depth-by-Stereo](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo) .
