@@ -1,4 +1,4 @@
-# Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks
+# Old-Photo-3D
 
 This is the implementation of the paper "Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks", IEEE Access, Ju Ho Kim, Kwang-Lim Ko, Le Thanh Ha, and Seung-Won Jung
 
