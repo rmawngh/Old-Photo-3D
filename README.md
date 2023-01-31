@@ -7,6 +7,7 @@ Official implementation of "Monocular Depth Estimation of Old Photos via Collabo
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/FrameWork.png" width="800"/>
 </p>
 
+
 ##### visualization results:
 <p align="center">
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/Results.png">
@@ -17,11 +18,15 @@ Official implementation of "Monocular Depth Estimation of Old Photos via Collabo
 The dataset was crawled old photos from onlie library.
 [Library of congress](https://www.loc.gov/pictures/)
 
+###### Before Old Photo Restoration:
+<p align="center">
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/old_photo_example.jpg">
+</p>
 
-
-# Result Comparison
-
-<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Paper/Result_Comparison.png">
+###### After Old Photo Restoration:
+<p align="center">
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/restorated_old_photo_example.jpg">
+</p>
 
 
 ## Acknowledgments
