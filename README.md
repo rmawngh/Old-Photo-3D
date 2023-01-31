@@ -18,6 +18,8 @@ Official implementation of "Monocular Depth Estimation of Old Photos via Collabo
 The dataset was crawled old photos from onlie library.
 [Library of congress](https://www.loc.gov/pictures/)
 
+We use Old Photo Restoration technique [Bringing-Old-Photos](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+
 ###### Before Old Photo Restoration:
 <p align="center">
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/old_photo_example.jpg">
@@ -30,4 +32,4 @@ The dataset was crawled old photos from onlie library.
 
 
 ## Acknowledgments
-The code is based on [Learning-Monocular-Depth-by-Stereo](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo) .
+The code is based on [Learning-Monocular-Depth-by-Stereo](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo).
