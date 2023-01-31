@@ -2,6 +2,18 @@
 
 Official implementation of "Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks"
 
+
+# Folder Description
+
+```
+Old_photo_dataset         : Description of the dataset.
+Pairwise_comparison       : Description of the pairwise comparison tool.
+Main_Code                 : Main Code
+image                     : Sample images
+```
+
+
+
 ####  Overview:
 <p align="center">
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/FrameWork.png" width="800"/>
