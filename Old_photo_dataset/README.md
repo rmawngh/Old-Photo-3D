@@ -3,15 +3,6 @@
 This is the implementation of the paper "Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks", IEEE Access, Ju Ho Kim, Kwang-Lim Ko, Le Thanh Ha, and Seung-Won Jung
 
 
-# Folder Description
-
-```
-Old_photo_dataset         : Description of the dataset.
-Pairwise_comparison       : Description of the pairwise comparison tool.
-Main_Code                 : Main Code
-image                     : Sample images
-```
-
 # Dataset Description
 
 The dataset was crawled old photos from onlie library.
