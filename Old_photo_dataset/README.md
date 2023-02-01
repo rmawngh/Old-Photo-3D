@@ -19,6 +19,8 @@ The dataset was crawled old photos from onlie library.
 
 We select 5 collection
 
+Collection | Number of images
+---- | ----
 [Abdul Hamid II Collection](https://www.loc.gov/pictures/collection/ahii/) | 1774 images
 <br>
 [Carpenter Collection](https://www.loc.gov/pictures/collection/ffcarp/) | 1657 images
