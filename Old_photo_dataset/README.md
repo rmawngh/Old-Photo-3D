@@ -21,13 +21,12 @@ We select 5 collection
 
 Collection | Number of images
 ---- | ----
-[Abdul Hamid II Collection](https://www.loc.gov/pictures/collection/ahii/) | 1774 images
-[Carpenter Collection](https://www.loc.gov/pictures/collection/ffcarp/) | 1657 images
-[Grabil Collection](https://www.loc.gov/pictures/collection/grabill/) | 248 images
-[Lawrence & Houseworth Collection](https://www.loc.gov/pictures/collection/lawhou/) | 792 images
-[Genthe Collection](https://www.loc.gov/pictures/collection/agc/) - [Travel views of Japan and Korea](https://www.loc.gov/pictures/search/?q=Travel+views+of+Japan+and+Korea&sp=1&st=gallery) | 613 images
-
-Total 5084 images
+[Abdul Hamid II Collection](https://www.loc.gov/pictures/collection/ahii/) | 1774
+[Carpenter Collection](https://www.loc.gov/pictures/collection/ffcarp/) | 1657
+[Grabil Collection](https://www.loc.gov/pictures/collection/grabill/) | 248
+[Lawrence & Houseworth Collection](https://www.loc.gov/pictures/collection/lawhou/) | 792
+[Genthe Collection](https://www.loc.gov/pictures/collection/agc/) - [Travel views of Japan and Korea](https://www.loc.gov/pictures/search/?q=Travel+views+of+Japan+and+Korea&sp=1&st=gallery) | 613
+Total | 5084
 
 We use Old Photo Restoration technique [Bringing-Old-Photos](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
