@@ -28,6 +28,12 @@ Collection | Number of images
 [Genthe Collection](https://www.loc.gov/pictures/collection/agc/) - [Travel views of Japan and Korea](https://www.loc.gov/pictures/search/?q=Travel+views+of+Japan+and+Korea&sp=1&st=gallery) | 613
 
 
+###### Pre-processing Progress:
+<p align="center">
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Old_photo_dataset/image/Old photo dataset example.jpg">
+</p>
+The final image is constructed through two procedures, which are shown in the figure.
+
 We use Old Photo Restoration technique [Bringing-Old-Photos](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 ###### Before Old Photo Restoration:
