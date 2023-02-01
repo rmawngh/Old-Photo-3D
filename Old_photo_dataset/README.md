@@ -36,14 +36,23 @@ We use Old Photo Restoration technique [Bringing-Old-Photos](https://github.com/
 ###### Before Old Photo Restoration:
 <p align="center">
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Old_photo_dataset/image/old_photo_example.jpg">
-<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/Old_photo_dataset/old_photo_example_2.jpg">
 </p>
 
 ###### After Old Photo Restoration:
 <p align="center">
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Old_photo_dataset/image/restorated_old_photo_example.jpg">
+</p>
+
+###### Before Old Photo Restoration:
+<p align="center">
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/Old_photo_dataset/old_photo_example_2.jpg">
+</p>
+
+###### After Old Photo Restoration:
+<p align="center">
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Old_photo_dataset/image/restorated_old_photo_example_2.jpg">
 </p>
+
 
 
 ## Acknowledgments
