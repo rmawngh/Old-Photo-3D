@@ -57,3 +57,4 @@ We use Old Photo Restoration technique [Bringing-Old-Photos](https://github.com/
 
 ## Acknowledgments
 [Library of congress](https://www.loc.gov/pictures/)
+[Bringing-Old-Photos](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
