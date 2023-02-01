@@ -27,6 +27,12 @@ Collection | Number of images
 [Lawrence & Houseworth Collection](https://www.loc.gov/pictures/collection/lawhou/) | 792
 [Genthe Collection](https://www.loc.gov/pictures/collection/agc/) - [Travel views of Japan and Korea](https://www.loc.gov/pictures/search/?q=Travel+views+of+Japan+and+Korea&sp=1&st=gallery) | 613
 
+Dataset Name | Download
+---- | ----
+Croped old photo dataset | [5.10GB](https://koreaoffice-my.sharepoint.com/:u:/g/personal/rmawngh_korea_ac_kr/EZwgJ6aEYw9NlAYcmBpLgC0BgOfrI45kM-mxXoSlFp-S7Q?e=EAqJWa)
+Restored old photo dataset | [8.28GB](https://koreaoffice-my.sharepoint.com/:u:/g/personal/rmawngh_korea_ac_kr/EcmJnrEMKqRPhWxqpFQtFncBZdqo6SDxVQvPl9WdIUyRFg?e=PI8FvM)
+
+
 
 ###### Pre-processing Progress:
 <p align="center">
