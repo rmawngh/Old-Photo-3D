@@ -16,13 +16,13 @@ image                     : Sample images
 
 ####  Overview:
 <p align="center">
-<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/FrameWork.png" width="800"/>
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/FrameWork.jpg" width="800"/>
 </p>
 
 
 ##### visualization results:
 <p align="center">
-<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/Results.png">
+<img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/image/Results.jpg">
 </p>
   
 # Old Photo Dataset
