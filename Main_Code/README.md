@@ -1,5 +1,3 @@
-# Juho Kim
-[my homepage](https://rmawngh.github.io)
+# Old-Photo-3D
 
-
-© Copyright 2022 Hongjae Lee. Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Photos from Unsplash.
+Update soon...
