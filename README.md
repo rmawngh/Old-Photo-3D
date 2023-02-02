@@ -1,6 +1,6 @@
 # Old-Photo-3D
 
-Official github of the paper "Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks", IEEE Access, Ju Ho Kim, [Kwang-Lim Ko](https://github.com/kklim1323), Le Thanh Ha, and Seung-Won Jung [PAPER](https://ieeexplore.ieee.org/document/10034739)
+Official github of the paper "Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks", IEEE Access, Ju Ho Kim, [Kwang-Lim Ko](https://github.com/kklim1323), Le Thanh Ha, and Seung-Won Jung [[PAPER](https://ieeexplore.ieee.org/document/10034739)]
 
 
 # Folder Description
