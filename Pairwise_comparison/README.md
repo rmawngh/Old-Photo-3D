@@ -36,3 +36,19 @@ restored_old  : restored(after restoration) images
 # GUI example
 
 <img src="https://github.com/rmawngh/Old-Photo-3D/blob/main/Pairwise_comparison/gui_example.png">
+
+
+
+## Citation
+```
+@ARTICLE{10034739,
+  author={Kim, Ju Ho and Ko, Kwang-Lim and Ha, Le Thanh and Jung, Seung-Won},
+  journal={IEEE Access}, 
+  title={Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2023.3241348}}
+```
+
