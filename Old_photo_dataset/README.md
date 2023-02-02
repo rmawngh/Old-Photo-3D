@@ -58,3 +58,19 @@ We use Old Photo Restoration technique [Bringing-Old-Photos](https://github.com/
 ## Acknowledgments
 [Library of congress](https://www.loc.gov/pictures/) <br>
 [Bringing-Old-Photos](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+
+
+
+## Citation
+```
+@ARTICLE{10034739,
+  author={Kim, Ju Ho and Ko, Kwang-Lim and Ha, Le Thanh and Jung, Seung-Won},
+  journal={IEEE Access}, 
+  title={Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2023.3241348}}
+```
+
