@@ -44,13 +44,13 @@ restored_old  : restored(after restoration) images
 ## Citation
 ```
 @ARTICLE{10034739,
-  author={Kim, Ju Ho and Ko, Kwang-Lim and Ha, Le Thanh and Jung, Seung-Won},
+  author={Kim, Ju Ho and Ko, Kwang-Lim and Le Ha, Thanh and Jung, Seung-Won},
   journal={IEEE Access}, 
   title={Monocular Depth Estimation of Old Photos via Collaboration of Monocular and Stereo Networks}, 
   year={2023},
-  volume={},
+  volume={11},
   number={},
-  pages={1-1},
+  pages={11675-11684},
   doi={10.1109/ACCESS.2023.3241348}}
 ```
 
